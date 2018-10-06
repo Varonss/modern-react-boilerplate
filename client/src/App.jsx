@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 //RHL only for front end development
 // import './sass.scss';
 import axios from 'axios';
-import DataList from './components/data';
+// import DataList from './components/data';
 
 export default class App extends Component {
 
